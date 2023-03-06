@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/example.txt
+file: /media/courses/site03/f.txt
 file_type: text/plain
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: example.txt
-uid: a1e73bf1-b4b7-434e-a6fd-407e70f3ce11
+title: f.txt
+uid: 5189e888-0432-4948-944d-2fb791e5f95c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

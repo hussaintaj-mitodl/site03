@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/b.txt
-file_type: text/plain
+file: /media/courses/site03/ffoc.doc
+file_type: application/msword
 image_metadata:
   caption: ''
   credit: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: b.txt
-uid: 4e8c6028-0d20-4c2a-b473-78d085f53690
+title: f.foc.doc
+uid: b40b7278-312d-4686-8250-a9807df5d135
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
