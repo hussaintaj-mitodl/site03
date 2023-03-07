@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/ggoc.doc
-file_type: application/msword
+file: /media/courses/site03/iptt.xlsx
+file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 image_metadata:
   caption: ''
   credit: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: g.goc.doc
-uid: c8421d00-a694-4c3a-bedc-15f203f83f6c
+title: i.ptt.xlsx
+uid: 86b6f92b-2430-4693-9192-b648eed4316e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
