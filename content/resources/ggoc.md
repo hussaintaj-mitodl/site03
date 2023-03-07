@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/ffoc.doc
+file: /media/courses/site03/ggoc.doc
 file_type: application/msword
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: f.foc.doc
-uid: b40b7278-312d-4686-8250-a9807df5d135
+title: g.goc.doc
+uid: c8421d00-a694-4c3a-bedc-15f203f83f6c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

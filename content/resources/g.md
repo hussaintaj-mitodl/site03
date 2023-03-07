@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/f.txt
-file_type: text/plain
+file: /media/courses/site03/g.csv
+file_type: text/csv
 image_metadata:
   caption: ''
   credit: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: f.txt
-uid: 5189e888-0432-4948-944d-2fb791e5f95c
+title: g.csv
+uid: 0c962484-db99-4ff2-b292-52ecabf4b056
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
