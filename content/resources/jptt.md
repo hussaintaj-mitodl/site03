@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/a.txt
-file_type: text/plain
+file: /media/courses/site03/jptt.xlsx
+file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 image_metadata:
   caption: ''
   credit: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: a.txt
-uid: d71a8cc9-cc46-48ee-a274-719f9c6cc859
+title: j.ptt.xlsx
+uid: 457fdf78-f6e3-49c5-9c66-d5915f18dbe1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
