@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/example-copy.csv
+file: /media/courses/site03/j.csv
 file_type: text/csv
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: example copy.csv
-uid: 49829d48-0376-46bf-b54a-8d3c6e78cc8c
+title: j.csv
+uid: 215cd745-e455-462d-9d87-32e117c40669
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

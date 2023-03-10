@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/site03/t1.txt
-file_type: text/plain
+file: /media/courses/site03/i.csv
+file_type: text/csv
 image_metadata:
   caption: ''
   credit: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: t1.txt
-uid: e7bdda31-2fe4-425e-ad3b-64e52788acf5
+title: i.csv
+uid: 928ae60c-aa73-4263-a6d5-f085648b0dcc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
